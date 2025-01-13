@@ -5,6 +5,8 @@ Employee Registration App
 Project Overview
 The Teekga ELECTRICAL Company Registration App is designed to manage employee records efficiently. This application allows the admin to securely log in and perform CRUD (Create, Read, Update, Delete) operations on employee data. It also provides insights into the status of employees, including active employees, deactivated employees, and those who have transferred to other company branches.
 
+Demo Link: # Demo-Link: # Demo-Link: employee-registration-react.vercel.app
+
 Features
 Admin Access Only:
 Only the admin can log in to the app and perform actions like adding, updating, and deleting employee records. To delete an employee, log in using the admin credentials:
